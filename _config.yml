@@ -18,9 +18,9 @@ title: "Ahmed Hassan's Portfolio"
 email: "ahmdm98.ali@gmail.com"
 description: "Engineer in Training specializing in Electrical Engineering."
 baseurl: "" # Leave this empty
-url: "https://<yourusername>.github.io" # Your GitHub Pages URL
+url: "https://AhmedHassan72.github.io" # Your GitHub Pages URL
 twitter_username: "" # Add if applicable
-github_username: "<yourusername>"
+github_username: "AhmedHassan72"
 
 minimal_mistakes_skin: default
 search: true
