@@ -59,18 +59,18 @@ plugins:
   - jekyll-include-cache
 
 author:
-name: "Ahmed Hassan"
-  avatar: "/assets/images/ahmed-hassan.jpg" # Add your photo to this path
-  bio: " Electrical Engineer in Training"
-  location: "Calgary, Canada"
-  email: "ahmdm98.ali@gmail.com"
-  links:
-    - label: "GitHub"
-      url: "https://github.com/<yourusername>"
-      icon: "fab fa-github"
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/your-linkedin-profile"
-      icon: "fab fa-linkedin"
+  name: "Ahmed Hassan"
+    avatar: "/assets/images/ahmed-hassan.jpg" # Add your photo to this path
+    bio: " Electrical Engineer in Training"
+    location: "Calgary, Canada"
+    email: "ahmdm98.ali@gmail.com"
+    links:
+      - label: "GitHub"
+        url: "https://github.com/<yourusername>"
+        icon: "fab fa-github"
+      - label: "LinkedIn"
+        url: "https://www.linkedin.com/in/your-linkedin-profile"
+        icon: "fab fa-linkedin"
 
 footer:
   links:
